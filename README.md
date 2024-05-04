@@ -26,6 +26,8 @@ The most general steps needed to be able to use the code found in the repository
 
 [Mini GitHub guide](https://www.codingdojo.com/blog/how-to-use-github)
 
+Troubleshooting Windows not recognizing esp32: https://www.youtube.com/watch?v=RKLxKsInFAQ
+
 ## Diagram of board connections
 
 <img src="./imgs/esp32_connections.jpg" height=450 alt="Connections to ESP32 micro controller"/>
